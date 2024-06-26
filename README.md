@@ -1,4 +1,4 @@
-# My ROS2 Package
+# Laser Stage Package
 
 ## Description
 This package implements the Bug1 algorithm for navigating a robot in a simulated environment.
